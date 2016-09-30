@@ -252,5 +252,5 @@ Find the response time using `ping` from a remote server to the ViewDNS server i
 |     Code    | Description     |  Notes       |
 |-------------|-----------------|--------------|
 |  **200**    |    OK           |  The API will return a 200/OK for everything **except** a 404/Not found  |
-|  **404 **   |    Not found    |  API endpoint not found  |
+|  **404**    |    Not found    |  API endpoint not found  |
 
